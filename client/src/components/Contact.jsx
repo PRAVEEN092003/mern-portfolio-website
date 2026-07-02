@@ -99,7 +99,7 @@ export default function Contact() {
 
             <div className="contact__socials">
               <a
-                href="https://github.com/praveenrajkumar2003"
+                href="https://github.com/PRAVEEN092003"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="contact__social"

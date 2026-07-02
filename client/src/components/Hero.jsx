@@ -103,7 +103,7 @@ export default function Hero() {
           {/* Social links */}
           <motion.div className="hero__socials" variants={itemVariants}>
             <a
-              href="https://github.com/praveenrajkumar2003"
+              href="https://github.com/PRAVEEN092003"
               target="_blank"
               rel="noopener noreferrer"
               className="hero__social-link"
@@ -113,7 +113,7 @@ export default function Hero() {
               <FiGithub size={20} />
             </a>
             <a
-              href="https://linkedin.com/in/praveenrajkumar2003"
+              href="https://github.com/PRAVEEN092003"
               target="_blank"
               rel="noopener noreferrer"
               className="hero__social-link"

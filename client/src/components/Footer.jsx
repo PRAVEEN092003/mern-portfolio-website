@@ -10,7 +10,7 @@ const navLinks = [
 ];
 
 const socials = [
-  { icon: <FiGithub />,   href: 'https://github.com/praveenrajkumar2003',   label: 'GitHub',   id: 'footer-github'   },
+  { icon: <FiGithub />,   href: 'https://github.com/PRAVEEN092003',   label: 'GitHub',   id: 'footer-github'   },
   { icon: <FiLinkedin />, href: 'https://linkedin.com/in/praveenrajkumar2003', label: 'LinkedIn', id: 'footer-linkedin' },
   { icon: <FiMail />,     href: 'mailto:praveenrajkumar2003@gmail.com',                 label: 'Email',    id: 'footer-email'    },
 ];
